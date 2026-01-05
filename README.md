@@ -21,8 +21,8 @@ This project uses **[uv](https://github.com/astral-sh/uv)** as the primary packa
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Abdelouahab-aourar/EmailSpamDetection
-   cd EmailSpamDetection
+   git clone https://github.com/Abdelouahab-aourar/Email-Spam-Detection
+   cd Email-Spam-Detection
 2. **Install uv run:**
    ```bash
    pip install uv
