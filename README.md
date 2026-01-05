@@ -1,15 +1,15 @@
-## 📧 Email Spam Detection
+## Email Spam Detection
 
 A simple API to classify emails as spam or ham using Logistic Regression model
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 - FastAPI
 - Pydantic
 - Scikit-Learn (Logistic Regression, TF-IDF Vectorizer, Train-Test Split)
 - Joblib
-## ⚙️ Getting Started
+## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
 
@@ -39,7 +39,7 @@ To start the development server:
    uv run uvicorn app:app --port PORT_NUM --reload
    ```
    ---
-### 📝 API Documentation
+### API Documentation
 Once the server is running, you can access the interactive built-in API documentation at:
 
 - Swagger UI: http://127.0.0.1:PORT_NUM/docs
